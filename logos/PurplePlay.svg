@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="40"
+     height="40"
+     viewBox="0 0 64 64">
+
+    <defs>
+        <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#702ae0"/>
+            <stop offset="35%" stop-color="#5f5bb7"/>
+            <stop offset="70%" stop-color="#4e64a1"/>
+            <stop offset="100%" stop-color="rgb(139,138,160)"/>
+        </linearGradient>
+    </defs>
+
+    <circle
+        cx="32"
+        cy="32"
+        r="30"
+        fill="url(#purpleGradient)"/>
+
+    <path
+        d="M26 20L46 32L26 44V20Z"
+        fill="white"/>
+</svg>

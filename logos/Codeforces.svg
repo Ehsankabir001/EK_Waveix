@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Circle background -->
+  <circle cx="32" cy="32" r="30" fill="#faefef"/>
+
+  <!-- Codeforces bars -->
+  <rect x="16" y="24" width="8" height="24" rx="2" fill="#1F8ACB"/>
+  <rect x="28" y="16" width="8" height="32" rx="2" fill="#F7C63D"/>
+  <rect x="40" y="30" width="8" height="18" rx="2" fill="#E74C3C"/>
+</svg>

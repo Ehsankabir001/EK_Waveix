@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 24 24"
+     width="40"
+     height="40">
+
+    <defs>
+        <linearGradient id="purpleGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#702ae0"/>
+            <stop offset="35%" stop-color="#5f5bb7"/>
+            <stop offset="70%" stop-color="#4e64a1"/>
+            <stop offset="100%" stop-color="rgb(139,138,160)"/>
+        </linearGradient>
+    </defs>
+
+    <!-- Purple gradient circle -->
+    <circle cx="12" cy="12" r="11" fill="url(#purpleGradient)"/>
+
+    <!-- Black pause icon -->
+    <path
+        d="M9 7v10M15 7v10"
+        stroke="white"
+        stroke-width="2"
+        stroke-linecap="round"
+    />
+
+</svg>
